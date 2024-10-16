@@ -1,1 +1,2 @@
 print("DEVOPS")
+print("diet")
